@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/momo185/cafewings.git/static/css/main.d5a1c177.css",
-    "main.js": "/momo185/cafewings.git/static/js/main.c4fe9b27.js",
-    "static/media/background.jpg": "/momo185/cafewings.git/static/media/background.04eb5951b9f9b3ec4250.jpg",
-    "index.html": "/momo185/cafewings.git/index.html",
-    "main.d5a1c177.css.map": "/momo185/cafewings.git/static/css/main.d5a1c177.css.map",
-    "main.c4fe9b27.js.map": "/momo185/cafewings.git/static/js/main.c4fe9b27.js.map"
+    "main.css": "/cafewings/static/css/main.e32edcf1.css",
+    "main.js": "/cafewings/static/js/main.7f8e2c6b.js",
+    "static/media/background.jpg": "/cafewings/static/media/background.04eb5951b9f9b3ec4250.jpg",
+    "index.html": "/cafewings/index.html",
+    "main.e32edcf1.css.map": "/cafewings/static/css/main.e32edcf1.css.map",
+    "main.7f8e2c6b.js.map": "/cafewings/static/js/main.7f8e2c6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a1c177.css",
-    "static/js/main.c4fe9b27.js"
+    "static/css/main.e32edcf1.css",
+    "static/js/main.7f8e2c6b.js"
   ]
 }
